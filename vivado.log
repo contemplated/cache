@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jun 16 20:58:15 2021
+# Process ID: 17220
+# Current directory: C:/Users/ZhangJun/Desktop/cache3/cache3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2960 C:\Users\ZhangJun\Desktop\cache3\cache3\cache3.xpr
+# Log file: C:/Users/ZhangJun/Desktop/cache3/cache3/vivado.log
+# Journal file: C:/Users/ZhangJun/Desktop/cache3/cache3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ZhangJun/Desktop/cache3/cache3/cache3.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/VIVADO/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:08 . Memory (MB): peak = 1035.938 ; gain = 0.000
+update_compile_order -fileset sources_1
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jun 16 21:03:35 2021...
